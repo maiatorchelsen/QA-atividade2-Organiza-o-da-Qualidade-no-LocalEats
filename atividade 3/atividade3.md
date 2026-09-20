@@ -4,8 +4,8 @@
 ## 1. Identificação
 
 **Turma:** Qualidade de Software (ADS5N26-2C) - 78 
-**Equipe:**  
-**Data:** [18/09/2026]
+**Equipe:**  Maiara
+**Data:** 18/09/2026
 
 ### Integrantes
 
@@ -33,9 +33,6 @@ Garantir que os usuários consigam selecionar itens, calcular corretamente o val
 | Integrante | Funcionalidade incluída | O que será verificado |
 |---|---|---|
 | Maiara Torchelsen Saraiva | Fazer pedido | Adição de itens ao carrinho, cálculo do valor total dos produtos e validação do fluxo de confirmação do pedido.  |
-| [nome] | [funcionalidade] | [preencher] |
-| [nome] | [funcionalidade] | [preencher] |
-
 
 
 
